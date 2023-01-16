@@ -1,0 +1,7 @@
+pandas
+dataframe_image
+numpy
+rfm
+jenkspy
+matplotlib
+IPython
